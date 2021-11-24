@@ -1,11 +1,17 @@
 <template>
   <div class="left_side">
+    <ProfileText/>
   </div>
 </template>
 
 <script>
+import ProfileText from './ProfileText.vue';
+
 export default {
-  name: 'LeftSize'
+  name: 'LeftSize',
+  components: {
+    ProfileText
+  }
 }
 </script>
 
@@ -13,7 +19,7 @@ export default {
 .left_side
 {
   position: relative;
-  background: #003147;
+  background: #35879A;
   padding: 40px;
 }
 </style>

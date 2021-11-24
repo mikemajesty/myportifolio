@@ -13,7 +13,7 @@ export default {
 .right_side
 {
   position: relative;
-  background: #fff;
+  background: #FFFFFF;
   padding: 40px;
 }
 </style>
