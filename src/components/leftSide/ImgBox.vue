@@ -1,6 +1,6 @@
 <template>
   <div class="imgBox">
-    <img src="../../public/img.jpeg">
+    <img src="../../../public/img.jpeg">
   </div>
   <h2>Mike Lima</h2>
   <span>Full Stack Developer</span>
@@ -33,7 +33,7 @@ img {
 
 h2 {
   color: white;
-  font-size: 1.5em;
+  font-size: 1.7em;
   margin-top: 20px;
   text-transform: uppercase;
   text-align: center;

@@ -4,7 +4,7 @@
 </template>
 
 <script>
-import LeftSize from './components/LeftSize.vue'
+import LeftSize from './components/leftSide/LeftSize.vue'
 import RightSize from './components/RightSize.vue'
 
 export default {

@@ -1,16 +1,22 @@
 <template>
   <div class="left_side">
     <ProfileText/>
+    <ContactInfo/>
+    <Education/>
   </div>
 </template>
 
 <script>
 import ProfileText from './ProfileText.vue';
+import ContactInfo from './ContactInfo.vue';
+import Education from './Education.vue';
 
 export default {
   name: 'LeftSize',
   components: {
-    ProfileText
+    ProfileText,
+    ContactInfo,
+    Education
   }
 }
 </script>
