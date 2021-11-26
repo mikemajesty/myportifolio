@@ -1,11 +1,19 @@
 <template>
   <div class="right_side">
+    <About/>
+    <Expiriences/>
   </div>
 </template>
 
 <script>
+import About from './About.vue';
+import Expiriences from './Expiriences.vue';
 export default {
-  name: 'RightSize'
+  name: 'RightSize',
+  components: {
+    About,
+    Expiriences
+  }
 }
 </script>
 

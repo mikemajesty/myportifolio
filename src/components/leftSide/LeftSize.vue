@@ -3,6 +3,9 @@
     <ProfileText/>
     <ContactInfo/>
     <Education/>
+    <LanguageInfo/>
+    <Hackathons/>
+    <OpenSource/>
   </div>
 </template>
 
@@ -10,13 +13,19 @@
 import ProfileText from './ProfileText.vue';
 import ContactInfo from './ContactInfo.vue';
 import Education from './Education.vue';
+import LanguageInfo from './LanguageInfo.vue';
+import Hackathons from './HackathonsInfo.vue';
+import OpenSource from './OpenSource.vue';
 
 export default {
   name: 'LeftSize',
   components: {
     ProfileText,
     ContactInfo,
-    Education
+    Education,
+    LanguageInfo,
+    Hackathons,
+    OpenSource
   }
 }
 </script>
@@ -25,7 +34,7 @@ export default {
 .left_side
 {
   position: relative;
-  background: #35879A;
+  background: #003147;
   padding: 40px;
 }
 </style>

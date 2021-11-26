@@ -19,20 +19,37 @@ export default {
 
 <style scoped>
 
-.education{
+.education {
   padding-top: 15px;
+}
+
+ul {
+  padding-top: 7%;
 }
 
 .title {
   font-weight: 700;
+  color: aliceblue;
 }
 
 li {
   margin-bottom: 15px;
+  list-style: none;
 }
 
 h5 {
   font-weight: 500;
+  color: #03a9f4;
+  position: relative;
+  width: 100%;
+  font-weight: 500;
+}
+
+h4 {
+  color: aliceblue;
+  position: relative;
+  width: 100%;
+  font-weight: 300;
 }
 
 </style>

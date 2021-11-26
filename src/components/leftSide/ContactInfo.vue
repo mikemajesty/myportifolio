@@ -4,19 +4,15 @@
     <ul>
       <li>
         <span class="icon"><i class="fa fa-phone" aria-hidden="true"></i></span>
-        <span class="text">+55 (15) 99762-4783</span>
+        <span class="text">(15) 99762-4783</span>
       </li>
       <li>
         <span class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></span>
-        <span class="text">mikee_2008@hotmail.com</span>
+        <span class="text">mike.rodrigues.lima@gmail.com</span>
       </li>
       <li>
         <span class="icon"><i class="fa fa-github" aria-hidden="true"></i></span>
         <span class="text">https://github.com/mikemajesty</span>
-      </li>
-      <li>
-        <span class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i></span>
-        <span class="text">São Paulo, Brasil</span>
       </li>
     </ul>
   </div>
@@ -34,26 +30,41 @@ export default {
   padding-top: 30px;
 }
 
-.contactInfo{
-  padding-top: 30px;
-}
-
 .icon {
   display: inline-block;
-  width: 30px;
-  font-size: 15px;
+  width: 28px;
+  font-size: 20px;
+}
+
+.fa.fa-phone {
+  padding-left: 5%;
+}
+
+.fa.fa-github {
+  padding-left: 5%;
+}
+
+ul {
+  padding-top: 5%;
 }
 
 i {
-  color: #fff;
+  color: #03a9f4;
+}
+
+.text {
+  font-size: 13.1px;
+  color: aliceblue;
 }
 
 span {
   font-weight: 400;
+  color: aliceblue;
 }
 
 .title {
   font-weight: 700;
+  color: aliceblue;
 }
 
 li {
