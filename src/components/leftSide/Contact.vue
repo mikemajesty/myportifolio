@@ -4,15 +4,19 @@
     <ul>
       <li>
         <span class="icon"><i class="fa fa-phone" aria-hidden="true"></i></span>
-        <span class="text">(15) 99762-4783</span>
+        <a class="text">(15) 99762-4783</a>
       </li>
       <li>
         <span class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></span>
-        <span class="text">mike.rodrigues.lima@gmail.com</span>
+        <a class="text" href="mailto:mike.rodrigues.lima@gmail.com">mike.rodrigues.lima@gmail.com</a>
       </li>
       <li>
         <span class="icon"><i class="fa fa-github" aria-hidden="true"></i></span>
-        <span class="text">https://github.com/mikemajesty</span>
+        <a href="https://github.com/mikemajesty" target="_blank" class="text">https://github.com/mikemajesty</a>
+      </li>
+      <li>
+        <span class="icon"><i class="fa fa-linkedin" aria-hidden="true"></i></span>
+        <a href="https://www.linkedin.com/in/mike-lima-77097993/" target="_blank" class="text">https://www.linkedin.com/mike</a>
       </li>
     </ul>
   </div>
@@ -28,6 +32,10 @@ export default {
 
 .contactInfo{
   padding-top: 30px;
+}
+
+a {
+  text-decoration: none
 }
 
 .icon {

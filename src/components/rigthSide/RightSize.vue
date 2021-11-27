@@ -2,21 +2,21 @@
   <div class="right_side">
     <About/>
     <Expiriences/>
-    <Skills/>
+    <Projects/>
   </div>
 </template>
 
 <script>
 import About from './About.vue';
 import Expiriences from './Expiriences.vue';
-import Skills from './Skills.vue';
+import Projects from './PersonalProject.vue';
 
 export default {
   name: 'RightSize',
   components: {
     About,
     Expiriences,
-    Skills
+    Projects,
   }
 }
 </script>

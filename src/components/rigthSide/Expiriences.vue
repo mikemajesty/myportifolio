@@ -42,6 +42,7 @@
         <img class="img padding" title="Angular 2" src="../../../public/angular1.png">
         <img class="img padding" title="Jenkins" src="../../../public/jenkins.png">
         <img class="img padding" title="AWS" src="../../../public/aws.png">
+         <img class="img padding" title="Jest" src="../../../public/jest.png">
         <span class="vl"/>
         <img class="img padding" title="Santander" src="../../../public/santander.png">
       </div>
@@ -63,6 +64,7 @@
         <img class="img padding" title="IBM Cloud" src="../../../public/ibmCloud.png">
         <img class="img padding" title="Jenkins" src="../../../public/jenkins.png">
         <img class="img padding" title="Inteligência Artificial" src="../../../public/IA.png">
+         <img class="img padding" title="Jest" src="../../../public/jest.png">
         <span class="vl"/>
         <img class="img padding" title="Santander" src="../../../public/santander.png">
       </div>
@@ -83,17 +85,23 @@
         <img class="img padding" title="React" src="../../../public/react.png">
         <img class="img padding" title="MongoDB" src="../../../public/mongo.png">
         <img class="img padding" title="PostgreSQL" src="../../../public/postgres.png">
-        <img class="img padding" title="AWS" src="../../../public/aws.png">
         <img class="img padding" title="Azure" src="../../../public/azure.png">
+        <img class="img padding" title="CosmosDB" src="../../../public/CosmosDB.png">
         <img class="img padding" title="API Managment Azure" src="../../../public/apiManagmentAzure.png">
+        <img class="img padding" title="AWS" src="../../../public/aws.png">
         <img class="img padding" title="AWS Lambda" src="../../../public/awslambda.png">
-        <img class="img padding" title="DynamoDB" src="../../../public/dynamodb.png">
+        <img class="img padding" title="AWS SQS" src="../../../public/amazon-sqs.png">
+        <img class="img" title="DynamoDB" src="../../../public/dynamodb.png">
         <img class="img padding" title="AWS S3" src="../../../public/awss3.png">
-        <img class="img" title="AWS API Gateway" src="../../../public/apigatway.png">
+        <img class="img padding" title="AWS Elastic Search" src="../../../public/Elasticsearch.png">
+        <img class="img padding" title="AWS API Gateway" src="../../../public/apigatway.png">
         <img class="img padding" title="Docker" src="../../../public/docker.png">
         <img class="img padding" title="Jenkins" src="../../../public/jenkins.png">
+        <img class="img padding" title="Bitbucket" src="../../../public/bitbucket.png">
         <img class="img padding" title="Kubernetes" src="../../../public/kubernetes.png">
+        <img class="img padding" title="Rancher" src="../../../public/rancher.png">
         <img class="img padding" title="Swagger API" src="../../../public/swagger.png">
+        <img class="img padding" title="Jest" src="../../../public/jest.png">
       </div>
     </div>
   </div>
