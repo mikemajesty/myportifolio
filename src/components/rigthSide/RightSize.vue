@@ -3,6 +3,7 @@
     <About/>
     <Expiriences/>
     <Projects/>
+    <PersonalAbout/>
   </div>
 </template>
 
@@ -10,6 +11,7 @@
 import About from './About.vue';
 import Expiriences from './Expiriences.vue';
 import Projects from './PersonalProject.vue';
+import PersonalAbout from './PersonalAbout.vue';
 
 export default {
   name: 'RightSize',
@@ -17,6 +19,7 @@ export default {
     About,
     Expiriences,
     Projects,
+    PersonalAbout,
   }
 }
 </script>
