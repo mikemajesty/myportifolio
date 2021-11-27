@@ -11,10 +11,10 @@
 
 <script>
 import ProfileText from './ProfileText.vue';
-import ContactInfo from './ContactInfo.vue';
+import ContactInfo from './Contact.vue';
 import Education from './Education.vue';
-import LanguageInfo from './LanguageInfo.vue';
-import Hackathons from './HackathonsInfo.vue';
+import LanguageInfo from './Language.vue';
+import Hackathons from './Hackathons.vue';
 import OpenSource from './OpenSource.vue';
 
 export default {

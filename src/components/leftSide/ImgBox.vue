@@ -46,6 +46,4 @@ span {
   font-weight: 300;
   color: white;
 }
-
 </style>
-// https://youtu.be/hnjHCmaUVPg

@@ -8,9 +8,6 @@
       <li>
         <span class="text">Inglês <span class="nivel">Intermediário</span></span>
       </li>
-      <li>
-        <span class="text">Espanhol <span class="nivel">Básico</span></span>
-      </li>
     </ul>
   </div>
 </template>

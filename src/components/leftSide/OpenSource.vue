@@ -5,12 +5,12 @@
       <li>
         <h5>NPM</h5>
         <h4 class="position">6 Bibliotecas</h4>
-        <h4 class="project">> 10.000 Downloads</h4>
+        <h4 class="project">> 5.000 Downloads</h4>
       </li>
       <li>
         <h5>Nuget</h5>
         <h4 class="position">4 Bibliotecas</h4>
-        <h4 class="project">> 5.000 Downloads</h4>
+        <h4 class="project">> 10.000 Downloads</h4>
       </li>
     </ul>
   </div>
