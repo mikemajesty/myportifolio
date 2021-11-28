@@ -12,11 +12,11 @@
       </li>
       <li>
         <span class="icon"><i class="fa fa-github" aria-hidden="true"></i></span>
-        <a href="https://github.com/mikemajesty" target="_blank" class="text">https://github.com/mikemajesty</a>
+        <a href="https://github.com/mikemajesty" title="Click para mais informações" target="_blank" class="text">https://github.com/mikemajesty</a>
       </li>
       <li>
         <span class="icon"><i class="fa fa-linkedin" aria-hidden="true"></i></span>
-        <a href="https://www.linkedin.com/in/mike-lima-77097993/" target="_blank" class="text">https://www.linkedin.com/mike</a>
+        <a href="https://www.linkedin.com/in/mike-lima-77097993/" title="Click para mais informações" target="_blank" class="text">https://www.linkedin.com/mike</a>
       </li>
     </ul>
   </div>

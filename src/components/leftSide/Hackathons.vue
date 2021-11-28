@@ -5,35 +5,35 @@
       <li>
         <h5>GS1 BRASIL - 2016</h5>
         <h4 class="position">Campeão</h4>
-        <a href="https://github.com/mikemajesty/PagFarma-Web" target="_blank" class="project">Pagfarma</a>
+        <a href="https://github.com/mikemajesty/PagFarma-Web" title="Click para mais informações" target="_blank" class="project">Pagfarma</a>
       </li>
       <hr />
       <li>
         <h5>SANTANDER - 2016</h5>
         <h4 class="position">Semifinalista</h4>
-        <a href="https://github.com/mikemajesty/pay-force-mobile" target="_blank" class="project">Pay Force</a>
+        <a href="https://github.com/mikemajesty/pay-force-mobile" title="Click para mais informações" target="_blank" class="project">Pay Force</a>
       </li>
       <hr />
       <li>
         <h5>UOL HOST - 2016</h5>
         <h4 class="position">Vice Campeão</h4>
-        <a href="https://github.com/mikemajesty/E-Connect" target="_blank" class="project">E-Connect</a>
+        <a href="https://github.com/mikemajesty/E-Connect" title="Click para mais informações" target="_blank" class="project">E-Connect</a>
       </li>
       <hr />
       <li>
         <h5>HACK ZURICH - 2016</h5>
-        <a href="https://github.com/mikemajesty/HackZurich-Project" target="_blank" class="project">Indoor Messages</a>
+        <a href="https://github.com/mikemajesty/HackZurich-Project" title="Click para mais informações" target="_blank" class="project">Indoor Messages</a>
       </li>
       <hr />
       <li>
         <h5>Tegra 2017</h5>
         <h4 class="position">Campeão</h4>
-        <a  href="https://github.com/mikemajesty/BeaconMusic" target="_blank" class="project">Beacon Music</a>
+        <a  href="https://github.com/mikemajesty/BeaconMusic" title="Click para mais informações" target="_blank" class="project">Beacon Music</a>
       </li>
       <hr />
       <li>
         <h5>SERASA EXPERIAN - 2017</h5>
-        <a href="https://github.com/celso-wo/relato-express" target="_blank" class="project">Relato Express</a>
+        <a href="https://github.com/celso-wo/relato-express" title="Click para mais informações" target="_blank" class="project">Relato Express</a>
       </li>
     </ul>
   </div>

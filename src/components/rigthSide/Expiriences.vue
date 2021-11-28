@@ -9,8 +9,9 @@
       <div class="text">
         <h4>Full Stack Developer</h4>
         <p>
-          A Tegra foi onde eu inicei minha carreira profissional, onde passei meus primeiros anos como Desenvolvedor. Tive muitos desafios
-          e pude ter contato com diversas tecnologias e projeto...
+          A Tegra foi onde eu iniciei minha carreira profissional, onde passei meus primeiros anos 
+como Desenvolvedor. Tive muitos desafios e pude ter contato com diversas tecnologias e 
+projeto...
         </p>
         <img class="img" title="C#" src="../../assets/cSharpe.png">
         <img class="img padding" title="NodeJs" src="../../assets/nodejs.png">
@@ -33,8 +34,10 @@
       <div class="text">
         <h4>Full Stack Developer</h4>
         <p>
-          A IBM foi onde tive minha segunda oportunidade, tive o prazer de participar em um dos melhores times da empresa, onde éramos referência em inovação
-          e tecnologias. O Projeto era um dashboard para o Santander, onde consumiamos uma grande quantidade de informações relevantes e fazíamos as mesmas legéveis para os diretores do banco...
+          A IBM foi onde tive minha segunda oportunidade, tive o prazer de participar em um dos 
+melhores times da empresa, onde éramos referência em inovação e tecnologias. O 
+Projeto era um dashboard para o Santander, onde consumíamos uma grande quantidade 
+de informações relevantes e fazíamos as mesmas de fácil entendimento para os diretores do banco...
         </p>
         <img class="img" title="NodeJs" src="../../assets/nodejs.png">
         <img class="img padding" title="MongoDB" src="../../assets/mongo.png">
@@ -55,8 +58,9 @@
       <div class="text">
         <h4>Full Stack Developer</h4>
         <p>
-          Foi na Accenture onde tive a oportunidade de trabalhar com o IBM Watson, onde desenvolviamos o chatbot do Santander,
-          que era um projeto estratégico para a empresa. O Projeto foi e ainda é um sucesso...
+          Foi na Accenture onde tive a oportunidade de trabalhar com o IBM Watson, onde 
+desenvolvíamos o chatbot do Santander, que era um projeto estratégico para a empresa. 
+O Projeto foi e ainda é um sucesso...
         </p>
         <img class="img" title="NodeJs" src="../../assets/nodejs.png">
         <img class="img padding" title="Angular 4" src="../../assets/angular1.png">
@@ -77,8 +81,9 @@
       <div class="text">
         <h4>Backend Developer</h4>
         <p>
-          Foi na Dasa onde tive os maiores desafios da carreira, onde eramos responsáveis por um projeto que gerava os resultados de exames para toda a empresa e afiliados.
-          Projeto referência de qualidade e tempo de entrega....
+          Foi na Dasa onde tive os maiores desafios da carreira, onde eramos responsáveis por um 
+projeto que gerava os resultados de exames para toda a empresa e afiliados. Projeto 
+referência de qualidade e tempo de entrega....
         </p>
         <img class="img" title="NodeJs" src="../../assets/nodejs.png">
         <img class="img padding" title="NestJs" src="../../assets/nestjs.png">
