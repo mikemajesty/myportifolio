@@ -26,7 +26,7 @@
       </li>
       <hr />
       <li>
-        <h5>Tegra 2017</h5>
+        <h5>Tegra - 2017</h5>
         <h4 class="position">Campeão</h4>
         <a  href="https://github.com/mikemajesty/BeaconMusic" title="Click para mais informações" target="_blank" class="project">Beacon Music</a>
       </li>

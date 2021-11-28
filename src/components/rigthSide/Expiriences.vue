@@ -121,7 +121,7 @@ export default {
 <style scoped>
 
 .expiriences {
-  padding-top: 17%;
+  padding-top: 13%;
 }
 
 .expiriences:last-child {
