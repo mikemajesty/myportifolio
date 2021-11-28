@@ -1,6 +1,6 @@
 <template>
   <div class="imgBox">
-    <img src="../../../public/img.jpeg">
+    <img src="../../assets/img.jpeg">
   </div>
   <h2>Mike Lima</h2>
   <span>Full Stack Developer</span>
