@@ -6,6 +6,8 @@
     <LanguageInfo/>
     <Hackathons/>
     <OpenSource/>
+    <Carousel/>
+    <Slide/>
   </div>
 </template>
 
@@ -16,6 +18,7 @@ import Education from './Education.vue';
 import LanguageInfo from './Language.vue';
 import Hackathons from './Hackathons.vue';
 import OpenSource from './OpenSource.vue';
+import Slide from './Slide.vue';
 
 export default {
   name: 'LeftSize',
@@ -25,7 +28,8 @@ export default {
     Education,
     LanguageInfo,
     Hackathons,
-    OpenSource
+    OpenSource,
+    Slide
   }
 }
 </script>
@@ -36,5 +40,7 @@ export default {
   position: relative;
   background: #003147;
   padding: 40px;
+  max-width: 300px;
+  box-shadow: 2px 10px 6px -4px black;
 }
 </style>

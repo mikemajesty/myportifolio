@@ -13,17 +13,17 @@
 como Desenvolvedor. Tive muitos desafios e pude ter contato com diversas tecnologias e 
 projeto...
         </p>
-        <img class="img" title="C#" src="../../assets/cSharpe.png">
-        <img class="img padding" title="NodeJs" src="../../assets/nodejs.png">
-        <img class="img padding" title="Java"  src="../../assets/java.png">
-        <img class="img padding" title="Python" src="../../assets/python.png">
-        <img class="img padding" title="MongoDB" src="../../assets/mongo.png">
-        <img class="img padding" title="MySQL" src="../../assets/mysql.png">
+        <img class="img" title="C#" src="../../assets/expiriences/cSharpe.png">
+        <img class="img padding" title="NodeJs" src="../../assets/expiriences/nodejs.png">
+        <img class="img padding" title="Java"  src="../../assets/expiriences/java.png">
+        <img class="img padding" title="Python" src="../../assets/expiriences/python.png">
+        <img class="img padding" title="MongoDB" src="../../assets/expiriences/mongo.png">
+        <img class="img padding" title="MySQL" src="../../assets/expiriences/mysql.png">
         <span class="vl"/>
-        <img class="img padding" title="BR Partners" src="../../assets/brpartnes.jpeg">
-        <img class="img padding" title="Banco PAN" src="../../assets/pan.jpg">
-        <img class="img padding" title="Prudential" src="../../assets/prudential.jpg">
-        <img class="img padding" title="GPA" src="../../assets/gpa.png">
+        <img class="img padding" title="BR Partners" src="../../assets/expiriences/brpartnes.jpeg">
+        <img class="img padding" title="Banco PAN" src="../../assets/expiriences/pan.jpg">
+        <img class="img padding" title="Prudential" src="../../assets/expiriences/prudential.jpg">
+        <img class="img padding" title="GPA" src="../../assets/expiriences/gpa.png">
       </div>
     </div>
     <div class="box">
@@ -39,15 +39,15 @@ melhores times da empresa, onde éramos referência em inovação e tecnologias.
 Projeto era um dashboard para o Santander, onde consumíamos uma grande quantidade 
 de informações relevantes e fazíamos as mesmas de fácil entendimento para os diretores do banco...
         </p>
-        <img class="img" title="NodeJs" src="../../assets/nodejs.png">
-        <img class="img padding" title="MongoDB" src="../../assets/mongo.png">
-        <img class="img padding" title="PostgreSQL" src="../../assets/postgres.png">
-        <img class="img padding" title="Angular 2" src="../../assets/angular1.png">
-        <img class="img padding" title="Jenkins" src="../../assets/jenkins.png">
-        <img class="img padding" title="AWS" src="../../assets/aws.png">
-         <img class="img padding" title="Jest" src="../../assets/jest.png">
+        <img class="img" title="NodeJs" src="../../assets/expiriences/nodejs.png">
+        <img class="img padding" title="MongoDB" src="../../assets/expiriences/mongo.png">
+        <img class="img padding" title="PostgreSQL" src="../../assets/expiriences/postgres.png">
+        <img class="img padding" title="Angular 2" src="../../assets/expiriences/angular1.png">
+        <img class="img padding" title="Jenkins" src="../../assets/expiriences/jenkins.png">
+        <img class="img padding" title="AWS" src="../../assets/expiriences/aws.png">
+         <img class="img padding" title="Jest" src="../../assets/expiriences/jest.png">
         <span class="vl"/>
-        <img class="img padding" title="Santander" src="../../assets/santander.png">
+        <img class="img padding" title="Santander" src="../../assets/expiriences/santander.png">
       </div>
     </div>
     <div class="box">
@@ -62,15 +62,15 @@ de informações relevantes e fazíamos as mesmas de fácil entendimento para os
 desenvolvíamos o chatbot do Santander, que era um projeto estratégico para a empresa. 
 O Projeto foi e ainda é um sucesso...
         </p>
-        <img class="img" title="NodeJs" src="../../assets/nodejs.png">
-        <img class="img padding" title="Angular 4" src="../../assets/angular1.png">
-        <img class="img padding" title="MongoDB" src="../../assets/mongo.png">
-        <img class="img padding" title="IBM Cloud" src="../../assets/ibmCloud.png">
-        <img class="img padding" title="Jenkins" src="../../assets/jenkins.png">
-        <img class="img padding" title="Inteligência Artificial" src="../../assets/IA.png">
-         <img class="img padding" title="Jest" src="../../assets/jest.png">
+        <img class="img" title="NodeJs" src="../../assets/expiriences/nodejs.png">
+        <img class="img padding" title="Angular 4" src="../../assets/expiriences/angular1.png">
+        <img class="img padding" title="MongoDB" src="../../assets/expiriences/mongo.png">
+        <img class="img padding" title="IBM Cloud" src="../../assets/expiriences/ibmCloud.png">
+        <img class="img padding" title="Jenkins" src="../../assets/expiriences/jenkins.png">
+        <img class="img padding" title="Inteligência Artificial" src="../../assets/expiriences/IA.png">
+         <img class="img padding" title="Jest" src="../../assets/expiriences/jest.png">
         <span class="vl"/>
-        <img class="img padding" title="Santander" src="../../assets/santander.png">
+        <img class="img padding" title="Santander" src="../../assets/expiriences/santander.png">
       </div>
     </div>
     <div class="box">
@@ -85,28 +85,28 @@ O Projeto foi e ainda é um sucesso...
 projeto que gerava os resultados de exames para toda a empresa e afiliados. Projeto 
 referência de qualidade e tempo de entrega....
         </p>
-        <img class="img" title="NodeJs" src="../../assets/nodejs.png">
-        <img class="img padding" title="NestJs" src="../../assets/nestjs.png">
-        <img class="img padding" title="React" src="../../assets/react.png">
-        <img class="img padding" title="MongoDB" src="../../assets/mongo.png">
-        <img class="img padding" title="PostgreSQL" src="../../assets/postgres.png">
-        <img class="img padding" title="Azure" src="../../assets/azure.png">
-        <img class="img padding" title="CosmosDB" src="../../assets/CosmosDB.png">
-        <img class="img padding" title="API Managment Azure" src="../../assets/apiManagmentAzure.png">
-        <img class="img padding" title="AWS" src="../../assets/aws.png">
-        <img class="img padding" title="AWS Lambda" src="../../assets/awslambda.png">
-        <img class="img padding" title="AWS SQS" src="../../assets/amazon-sqs.png">
-        <img class="img" title="DynamoDB" src="../../assets/dynamodb.png">
-        <img class="img padding" title="AWS S3" src="../../assets/awss3.png">
-        <img class="img padding" title="AWS Elastic Search" src="../../assets/Elasticsearch.png">
-        <img class="img padding" title="AWS API Gateway" src="../../assets/apigatway.png">
-        <img class="img padding" title="Docker" src="../../assets/docker.png">
-        <img class="img padding" title="Jenkins" src="../../assets/jenkins.png">
-        <img class="img padding" title="Bitbucket" src="../../assets/bitbucket.png">
-        <img class="img padding" title="Kubernetes" src="../../assets/kubernetes.png">
-        <img class="img padding" title="Rancher" src="../../assets/rancher.png">
-        <img class="img padding" title="Swagger API" src="../../assets/swagger.png">
-        <img class="img padding" title="Jest" src="../../assets/jest.png">
+        <img class="img" title="NodeJs" src="../../assets/expiriences/nodejs.png">
+        <img class="img padding" title="NestJs" src="../../assets/expiriences/nestjs.png">
+        <img class="img padding" title="React" src="../../assets/expiriences/react.png">
+        <img class="img padding" title="MongoDB" src="../../assets/expiriences/mongo.png">
+        <img class="img padding" title="PostgreSQL" src="../../assets/expiriences/postgres.png">
+        <img class="img padding" title="Azure" src="../../assets/expiriences/azure.png">
+        <img class="img padding" title="CosmosDB" src="../../assets/expiriences/CosmosDB.png">
+        <img class="img padding" title="API Managment Azure" src="../../assets/expiriences/apiManagmentAzure.png">
+        <img class="img padding" title="AWS" src="../../assets/expiriences/aws.png">
+        <img class="img padding" title="AWS Lambda" src="../../assets/expiriences/awslambda.png">
+        <img class="img padding" title="AWS SQS" src="../../assets/expiriences/amazon-sqs.png">
+        <img class="img padding" title="DynamoDB" src="../../assets/expiriences/dynamodb.png">
+        <img class="img" title="AWS S3" src="../../assets/expiriences/awss3.png">
+        <img class="img padding" title="AWS Elastic Search" src="../../assets/expiriences/Elasticsearch.png">
+        <img class="img padding" title="AWS API Gateway" src="../../assets/expiriences/apigatway.png">
+        <img class="img padding" title="Docker" src="../../assets/expiriences/docker.png">
+        <img class="img padding" title="Jenkins" src="../../assets/expiriences/jenkins.png">
+        <img class="img padding" title="Bitbucket" src="../../assets/expiriences/bitbucket.png">
+        <img class="img padding" title="Kubernetes" src="../../assets/expiriences/kubernetes.png">
+        <img class="img padding" title="Rancher" src="../../assets/expiriences/rancher.png">
+        <img class="img padding" title="Swagger API" src="../../assets/expiriences/swagger.png">
+        <img class="img padding" title="Jest" src="../../assets/expiriences/jest.png">
       </div>
     </div>
   </div>
@@ -121,7 +121,7 @@ export default {
 <style scoped>
 
 .expiriences {
-  padding-top: 13%;
+  padding-top: 19%;
 }
 
 .expiriences:last-child {

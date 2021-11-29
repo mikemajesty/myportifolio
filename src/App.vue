@@ -34,7 +34,7 @@ export default {
   background: #fff;
   display: grid;
   grid-template-columns: 1fr 2fr;
-  box-shadow: 2px 10px 6px -4px black
+  box-shadow: 2px 10px 6px -4px black;
 }
 body
 {

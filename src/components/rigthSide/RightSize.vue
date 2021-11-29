@@ -30,5 +30,7 @@ export default {
   position: relative;
   background: #FFFFFF;
   padding: 40px;
+  min-width: 40rem;
+  box-shadow: 2px 10px 6px -4px black;
 }
 </style>
