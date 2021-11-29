@@ -3,8 +3,10 @@
       <h3 class="title">Trajetória</h3>
   </div>
   <Carousel>
-    <Slide v-for="slide in list" :key="slide.name">
-      <div class="carousel__item"><img class="trajectoryImg" v-bind:src="slide.img"></div>
+    <Slide v-for="slide in list" :key="slide.id">
+      <div class="carousel__item">
+        <img class="trajectoryImg" :src="slide.img">
+      </div>
     </Slide>
 
     <template #addons>
@@ -23,7 +25,16 @@ import 'vue3-carousel/dist/carousel.css';
 export default defineComponent({
   name: 'Basic',
   data: () => ({
-    list: [{ name: 'Tegra', img: __dirname + "../../assets/trajectory/gs1.jpeg"  }]
+    list: [
+      { id: 'tegra', img:  require("../../assets/trajectory/tegra.jpg")},
+      { id: 'gs1', img:  require("../../assets/trajectory/gs1.jpeg")},
+      { id: 'zurich', img:  require("../../assets/trajectory/zurich.jpeg")},
+      { id: 'uol', img:  require("../../assets/trajectory/uol.jpeg")},
+      { id: 'santander', img:  require("../../assets/trajectory/santander.jpg")},
+      { id: 'serasa', img:  require("../../assets/trajectory/serasa.jpeg")},
+      { id: 'ibm', img:  require("../../assets/trajectory/ibm.jpeg")},
+      { id: 'accenture', img:  require("../../assets/trajectory/accenture.jpg")}
+    ]
   }),
   components: {
     Carousel,
@@ -40,8 +51,9 @@ export default defineComponent({
   padding-top: 10%;
 }
 
-.trajectoryImg {
-  border-radius: 50%;
+.carouselText {
+  text-align: center;
+  padding-top: 5%;
 }
 
 .title {
@@ -49,12 +61,7 @@ export default defineComponent({
   color: aliceblue;
 }
 
-.carousel {
-  padding-top: 50px;
-}
-
 .carousel__item {
-  min-height: 200px;
   width: 100%;
   background-color: var(--vc-clr-primary);
   color:  var(--vc-clr-white);
