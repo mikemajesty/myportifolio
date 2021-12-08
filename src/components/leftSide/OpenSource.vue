@@ -4,7 +4,7 @@
     <ul>
       <li>
         <h5>NPM</h5>
-        <h4 class="position">6 Bibliotecas</h4>
+        <h4 class="position">8 Bibliotecas</h4>
         <a href="https://www.npmjs.com/~mikemajesty"  target="_blank" class="project">> 5.000 Downloads</a>
       </li>
       <li>
