@@ -5,7 +5,7 @@
   <Carousel>
     <Slide v-for="slide in list" :key="slide.id">
       <div class="carousel__item">
-        <img class="trajectoryImg" :src="slide.img">
+        <img class="trajectoryImg" :title="slide.title" :src="slide.img">
       </div>
     </Slide>
 
@@ -26,14 +26,16 @@ export default defineComponent({
   name: 'Basic',
   data: () => ({
     list: [
-      { id: 'tegra', img:  require("../../assets/trajectory/tegra.jpg")},
-      { id: 'gs1', img:  require("../../assets/trajectory/gs1.jpeg")},
-      { id: 'zurich', img:  require("../../assets/trajectory/zurich.jpeg")},
-      { id: 'uol', img:  require("../../assets/trajectory/uol.jpeg")},
-      { id: 'santander', img:  require("../../assets/trajectory/santander.jpg")},
-      { id: 'serasa', img:  require("../../assets/trajectory/serasa.jpeg")},
-      { id: 'ibm', img:  require("../../assets/trajectory/ibm.jpeg")},
-      { id: 'accenture', img:  require("../../assets/trajectory/accenture.jpg")}
+      { id: 'facul', title: "Faculdade", img:  require("../../assets/trajectory/facul.jpg")},
+      { id: 'tegra', title: "Primeiro emprego", img:  require("../../assets/trajectory/tegra.jpg")},
+      { id: 'gs1', title: "Primeiro Hackathon - Campeão :)", img:  require("../../assets/trajectory/gs1.jpeg")},
+      { id: 'zurich', title: "Hackathon em Zurich (Suiça)", img:  require("../../assets/trajectory/zurich.jpeg")},
+      { id: 'uol', title: "Hackathon UOL - Vice campeão", img:  require("../../assets/trajectory/uol.jpeg")},
+      { id: 'santander', title: "Hackathon Santander - Seminfinalistas", img:  require("../../assets/trajectory/santander.jpg")},
+      { id: 'serasa', title: "Hackathon Serasa", img:  require("../../assets/trajectory/serasa.jpeg")},
+      { id: 'ibm', title: "IBM", img:  require("../../assets/trajectory/ibm.jpeg")},
+      { id: 'accenture', title: "Accenture", img:  require("../../assets/trajectory/accenture.jpg")},
+      { id: 'dasa', title: "Dasa" , img:  require("../../assets/trajectory/dasa.png")}
     ]
   }),
   components: {
