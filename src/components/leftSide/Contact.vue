@@ -4,7 +4,7 @@
     <ul>
       <li>
         <span class="icon"><i class="fa fa-phone" aria-hidden="true"></i></span>
-        <a class="text">(15) 99762-4783</a>
+        <a class="text"><a href="https://wa.me/+5515997624783" class="text"  target="_blank">(15) 99762-4783</a></a>
       </li>
       <li>
         <span class="icon"><i class="fa fa-envelope" aria-hidden="true"></i></span>
@@ -64,6 +64,7 @@ i {
   font-size: 13.1px;
   color: aliceblue;
 }
+
 
 span {
   font-weight: 400;
