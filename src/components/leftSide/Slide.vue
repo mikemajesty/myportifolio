@@ -35,7 +35,8 @@ export default defineComponent({
       { id: 'serasa', title: "Hackathon Serasa", img:  require("../../assets/trajectory/serasa.jpeg")},
       { id: 'ibm', title: "IBM", img:  require("../../assets/trajectory/ibm.jpeg")},
       { id: 'accenture', title: "Accenture", img:  require("../../assets/trajectory/accenture.jpg")},
-      { id: 'dasa', title: "Dasa" , img:  require("../../assets/trajectory/dasa.png")}
+      { id: 'dasa', title: "Dasa" , img:  require("../../assets/trajectory/dasa.png")},
+      { id: 'wa', title: "Wa Project." , img:  require("../../assets/trajectory/wa.jpeg")}
     ]
   }),
   components: {
