@@ -4,7 +4,7 @@
     <h2 class="title">Projetos Pessoais</h2>
   </div>
   <a href="https://github.com/mikemajesty/nestjs-monorepo" title="Click para mais informações"  target="_blank">NestJs Monorepo</a>
-  <h5>Monorepo em NestJs, onde foi usado as melhores praticas de monorepo do mercado. O Projeto foi desenvolvido para ter escalabilidade e provou sua efetividade em um grande projeto empresarial.</h5>
+  <h5>Monorepo em NestJs, onde foi usado as melhores praticas de arquitetura e estrutura de projeto. O Projeto foi desenvolvido para ter escalabilidade e está provando sua efetividade em grandes projetos empresariais.</h5>
   <hr>
   <a href="https://github.com/mikemajesty/nestjs-boilerplate" title="Click para mais informações" target="_blank" class="padding">NestJs Multirepo</a>
   <h5>Multirepo em NestJs, onde foi usado as melhores praticas de multirepo do mercado. O Projeto foi desenvolvido para ser um microserviço.</h5>
@@ -56,6 +56,7 @@ h5 {
   color: #848c90;
   font-weight: 500;
   padding-left: 10%;
+  font-size: 20px;
 }
 
 a {

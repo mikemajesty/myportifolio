@@ -34,6 +34,7 @@ export default {
 p {
   color: #333;
   font-weight: 400;
+  font-size: 20px;
 }
 
 </style>

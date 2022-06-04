@@ -1,34 +1,33 @@
 <template>
-  <LeftSize/>
-  <RightSize/>
+  <LeftSize />
+  <RightSize />
 </template>
 
 <script>
-import LeftSize from './components/leftSide/LeftSize.vue'
-import RightSize from './components/rigthSide/RightSize.vue'
+import LeftSize from "./components/leftSide/LeftSize.vue";
+import RightSize from "./components/rigthSide/RightSize.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     LeftSize,
-    RightSize
-  }
-}
+    RightSize,
+  },
+};
 </script>
 
 <style>
-@import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
-*
-{
+@import url("https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap");
+* {
   margin: 0;
   padding: 0;
   box-sizing: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 #app {
   position: relative;
   width: 100%;
-  max-width: 1000px;
+  max-width: 1300px;
   min-height: 1000px;
   margin: 50px;
   background: #fff;
@@ -36,8 +35,7 @@ export default {
   grid-template-columns: 1fr 2fr;
   box-shadow: 2px 10px 6px -4px black;
 }
-body
-{
+body {
   background: lightblue;
   display: flex;
   justify-content: center;

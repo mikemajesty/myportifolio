@@ -61,7 +61,8 @@ i {
 }
 
 .text {
-  font-size: 13.1px;
+  font-size: 15.5px;
+  font-weight: 300;
   color: aliceblue;
 }
 
