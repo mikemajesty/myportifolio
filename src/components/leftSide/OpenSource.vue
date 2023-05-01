@@ -5,12 +5,12 @@
       <li>
         <h5>NPM</h5>
         <h4 class="position">8 Bibliotecas</h4>
-        <a href="https://www.npmjs.com/~mikemajesty"  target="_blank" class="project">> 8.000 Downloads</a>
+        <a href="https://www.npmjs.com/~mikemajesty"  target="_blank" class="project">> 600 Downloads mensais</a>
       </li>
       <li>
         <h5>Nuget</h5>
         <h4 class="position">4 Bibliotecas</h4>
-        <a href="https://www.nuget.org/profiles/mikemajesty" target="_blank" class="project">> 10.000 Downloads</a>
+        <a href="https://www.nuget.org/profiles/mikemajesty" target="_blank" class="project">> 15.000 Downloads</a>
       </li>
     </ul>
   </div>
