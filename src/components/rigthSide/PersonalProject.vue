@@ -4,10 +4,10 @@
     <h2 class="title">Projetos Pessoais</h2>
   </div>
   <a href="https://github.com/mikemajesty/nestjs-monorepo" title="Click para mais informações"  target="_blank">NestJs Monorepo</a>
-  <h5>Monorepo em NestJs, onde foi usado as melhores praticas de monorepo do mercado. O Projeto foi desenvolvido para ter escalabilidade e provou sua efetividade em um grande projeto empresarial.</h5>
+  <h5>A ideia desse Monorepo em Nestjs foi construir uma arquitetura simples e manutenível, com isso facilitando a criação de novas APIs em um único repositório. O desenvolvimento demorou 8 meses entre construção e estudo. O projeto é um sucesso no Github e isso animou-me ainda mais para melhorar e evoluir o mesmo.</h5>
   <hr>
-  <a href="https://github.com/mikemajesty/nestjs-boilerplate" title="Click para mais informações" target="_blank" class="padding">NestJs Multirepo</a>
-  <h5>Multirepo em NestJs, onde foi usado as melhores praticas de multirepo do mercado. O Projeto foi desenvolvido para ser um microserviço.</h5>
+  <a href="https://github.com/mikemajesty/nestjs-microservice-boilerplate-api" title="Click para mais informações" target="_blank" class="padding">NestJs Microservice Boilerplate</a>
+  <h5>Esse Microserviço foi criado após ter passado  por inúmeras empresas e sempre me deparar com uma arquitetura complicada e de difícil manutenção. Com isso eu revolvi estudar as principais arquiteturas e extrair o melhor de cada uma, juntamente com as experiências que eu tive na minha carreira, o resultado foi incrível e tive inúmeros feedbacks positivos. O projeto esta sendo usado em vaias empresas, inclusive a empresa que eu trabalho atualmente.</h5>
   <hr>
   <a href="https://github.com/mikemajesty/legend_of_github" title="Click para mais informações" target="_blank" class="padding">Legend Of Github</a>
   <h5>Game desenvolvido em VueJs e Phaser, o jogo é baseado nas estatísticas de cada usuário do github para criar um personagem em RPG e batalhar contra seus amigos.</h5>

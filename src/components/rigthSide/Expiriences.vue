@@ -3,31 +3,6 @@
     <h2 class="title">Experiências</h2>
     <div class="box">
       <div class="yearCompany">
-        <h5>2016 - 2018</h5>
-        <h5>Tegra</h5>
-      </div>
-      <div class="text">
-        <h4>Full Stack Developer</h4>
-        <p>
-          A Tegra foi onde eu iniciei minha carreira profissional, onde passei meus primeiros anos 
-como Desenvolvedor. Tive muitos desafios e pude ter contato com diversas tecnologias e 
-projeto...
-        </p>
-        <img class="img" title="C#" src="../../assets/expiriences/cSharpe.png">
-        <img class="img padding" title="NodeJs" src="../../assets/expiriences/nodejs.png">
-        <img class="img padding" title="Java"  src="../../assets/expiriences/java.png">
-        <img class="img padding" title="Python" src="../../assets/expiriences/python.png">
-        <img class="img padding" title="MongoDB" src="../../assets/expiriences/mongo.png">
-        <img class="img padding" title="MySQL" src="../../assets/expiriences/mysql.png">
-        <span class="vl"/>
-        <img class="img padding" title="BR Partners" src="../../assets/expiriences/brpartnes.jpeg">
-        <img class="img padding" title="Banco PAN" src="../../assets/expiriences/pan.jpg">
-        <img class="img padding" title="Prudential" src="../../assets/expiriences/prudential.jpg">
-        <img class="img padding" title="GPA" src="../../assets/expiriences/gpa.png">
-      </div>
-    </div>
-    <div class="box">
-      <div class="yearCompany">
         <h5>2018 - 2019</h5>
         <h5>IBM</h5>
       </div>
@@ -75,7 +50,7 @@ O Projeto foi e ainda é um sucesso...
     </div>
     <div class="box">
       <div class="yearCompany">
-        <h5>2020 - 2021</h5>
+        <h5>2020 - 2022</h5>
         <h5>Dasa</h5>
       </div>
       <div class="text">
@@ -107,6 +82,28 @@ referência de qualidade e tempo de entrega....
         <img class="img padding" title="Rancher" src="../../assets/expiriences/rancher.png">
         <img class="img padding" title="Swagger API" src="../../assets/expiriences/swagger.png">
         <img class="img padding" title="Jest" src="../../assets/expiriences/jest.png">
+      </div>
+    </div>
+    <div class="box">
+      <div class="yearCompany">
+        <h5>2022 - atual</h5>
+        <h5>Seedz</h5>
+      </div>
+      <div class="text">
+        <h4>Full Stack Developer</h4>
+        <p>
+        </p>
+        <img class="img padding" title="NestJs" src="../../assets/expiriences/nestjs.png">
+        <img class="img padding" title="React" src="../../assets/expiriences/react.png">
+        <img class="img padding" title="MongoDB" src="../../assets/expiriences/mongo.png">
+        <img class="img padding" title="PostgreSQL" src="../../assets/expiriences/postgres.png">
+        <img class="img padding" title="Azure" src="../../assets/expiriences/azure.png">
+        <img class="img padding" title="CosmosDB" src="../../assets/expiriences/CosmosDB.png">
+        <img class="img padding" title="API Managment Azure" src="../../assets/expiriences/apiManagmentAzure.png">
+        <img class="img padding" title="AWS" src="../../assets/expiriences/aws.png">
+        <img class="img padding" title="AWS Lambda" src="../../assets/expiriences/awslambda.png">
+        <img class="img padding" title="AWS SQS" src="../../assets/expiriences/amazon-sqs.png">
+        <img class="img padding" title="DynamoDB" src="../../assets/expiriences/dynamodb.png">
       </div>
     </div>
   </div>
