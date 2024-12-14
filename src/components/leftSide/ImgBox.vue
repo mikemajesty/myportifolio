@@ -3,7 +3,7 @@
     <img src="../../assets/img.jpeg">
   </div>
   <h2>Mike Lima</h2>
-  <span>Engenehiro de Software Sênior</span>
+  <span>Engenheiro de Software Sênior</span>
   
   <p class="expertises" >Expertises</p>
 
@@ -14,6 +14,7 @@
   <li>Typescript</li>
   <li>MongoDB</li>
   <li>PostgreSQL</li>
+  <li>AWS</li>
 </ul>
 
   
