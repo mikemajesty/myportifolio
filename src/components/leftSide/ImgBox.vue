@@ -3,7 +3,20 @@
     <img src="../../assets/img.jpeg">
   </div>
   <h2>Mike Lima</h2>
-  <span>Full Stack Developer</span>
+  <span>Engenehiro de Software Sênior</span>
+  
+  <p class="expertises" >Expertises</p>
+
+<ul>
+  <li>Nodejs(Nestjs, Express)</li>
+  <li>Arquitetura de Software</li>
+  <li>Observabilidade</li>
+  <li>Typescript</li>
+  <li>MongoDB</li>
+  <li>PostgreSQL</li>
+</ul>
+
+  
 </template>
 
 <script>
@@ -29,6 +42,15 @@ img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+li {
+  color: white;
+}
+.expertises
+{
+  color: white;
+  padding-top: 5%;
+  font-weight: 1000;
 }
 
 h2 {
