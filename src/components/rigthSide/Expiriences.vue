@@ -48,11 +48,11 @@
         <h5>Seedz</h5>
       </div>
       <div class="text">
-        <h4>Full Stack Developer</h4>
+        <h4>Staff Engineer</h4>
         <p>
           Na Seedz, tive a oportunidade de criar e estruturar microserviços com um foco essencial em manutenibilidade e escalabilidade. Enfrentei desafios que me permitiram evoluir significativamente como profissional. Hoje, a empresa conta com pelo menos três APIs que eu projetei e desenvolvi desde o início, o que contribuiu diretamente para a infraestrutura robusta e eficiente da companhia.
         </p>
-        <p><b class="p-skill">Nodejs(Nestjs,Express), MongoDB, PostgreSQL, Azure, AWS, AWS SQS, AWS Lambda,Jest(Test unitários)</b></p>
+        <p><b class="p-skill">Nodejs(Nestjs,Express), Arquitetura de Software, MongoDB, PostgreSQL, Azure, AWS, AWS SQS, AWS Lambda,Jest(Test unitários)</b></p>
       </div>
     </div>
   </div>

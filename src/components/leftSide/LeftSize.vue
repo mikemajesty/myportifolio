@@ -6,7 +6,7 @@
     <LanguageInfo/>
     <Hackathons/>
     <OpenSource/>
-    <Carousel/>
+    <Books/>
   </div>
 </template>
 
@@ -17,6 +17,7 @@ import Education from './Education.vue';
 import LanguageInfo from './Language.vue';
 import Hackathons from './Hackathons.vue';
 import OpenSource from './OpenSource.vue';
+import Books from './Books.vue';
 
 export default {
   name: 'LeftSize',
@@ -27,6 +28,7 @@ export default {
     LanguageInfo,
     Hackathons,
     OpenSource,
+    Books
   }
 }
 </script>
