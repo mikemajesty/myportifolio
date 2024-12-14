@@ -3,26 +3,14 @@
     <div class="box">
     <h2 class="title">Projetos Pessoais</h2>
   </div>
-  <a href="https://github.com/mikemajesty/nestjs-monorepo" title="Click para mais informações"  target="_blank">NestJs Monorepo</a>
-  <h5>A ideia desse Monorepo em Nestjs foi construir uma arquitetura simples e manutenível, com isso facilitando a criação de novas APIs em um único repositório. O desenvolvimento demorou 8 meses entre construção e estudo. O projeto é um sucesso no Github e isso animou-me ainda mais para melhorar e evoluir o mesmo.</h5>
-  <hr>
   <a href="https://github.com/mikemajesty/nestjs-microservice-boilerplate-api" title="Click para mais informações" target="_blank" class="padding">NestJs Microservice Boilerplate</a>
-  <h5>Esse Microserviço foi criado após ter passado  por inúmeras empresas e sempre me deparar com uma arquitetura complicada e de difícil manutenção. Com isso eu revolvi estudar as principais arquiteturas e extrair o melhor de cada uma, juntamente com as experiências que eu tive na minha carreira, o resultado foi incrível e tive inúmeros feedbacks positivos. O projeto esta sendo usado em vaias empresas, inclusive a empresa que eu trabalho atualmente.</h5>
+  <h5>Este microserviço foi desenvolvido após minha experiência em diversas empresas, onde sempre me deparei com arquiteturas complicadas e de difícil manutenção. Motivado por esse desafio, decidi estudar as principais arquiteturas e combinar o melhor de cada uma com as experiências adquiridas ao longo da minha carreira. O resultado foi extraordinário, e recebi inúmeros feedbacks positivos. Atualmente, o projeto está sendo utilizado em várias empresas, incluindo a organização em que trabalho.</h5>
+  <hr>
+  <a href="https://github.com/mikemajesty/nestjs-monorepo" title="Click para mais informações"  target="_blank">NestJs Monorepo</a>
+  <h5>A ideia por trás deste Monorepo em NestJS foi criar uma arquitetura simples e manutenível, facilitando a criação de novas APIs em um único repositório. O desenvolvimento do projeto levou 8 meses, incluindo a fase de construção e estudos aprofundados. O sucesso do projeto no Github foi uma grande motivação, e isso me inspirou a continuar aprimorando e evoluindo ainda mais a solução..</h5>
   <hr>
   <a href="https://github.com/mikemajesty/legend_of_github" title="Click para mais informações" target="_blank" class="padding">Legend Of Github</a>
-  <h5>Game desenvolvido em VueJs e Phaser, o jogo é baseado nas estatísticas de cada usuário do github para criar um personagem em RPG e batalhar contra seus amigos.</h5>
-  <hr>
-  <a href="https://github.com/mikemajesty/Vue-Dual-List" title="Click para mais informações" target="_blank" class="padding">Vue Dual List</a>
-  <h5>Dual list em VueJs, o componente foi desenvolvido para solucionar uma carência desse tipo de componente no peróido.</h5>
-  <hr>
-  <a href="https://github.com/mikemajesty/Vue-Month-Calendar" title="Click para mais informações" target="_blank" class="padding">Vue Month Calendar</a>
-  <h5>MOnth calendar em VueJs, o componente foi desenvolvido para ser usado em um projeto pessoal.</h5>
-  <hr>
-  <a href="https://github.com/mikemajesty/Chocobo-Date-Range-Picker" title="Click para mais informações" target="_blank" class="padding">Chocobo Data Range</a>
-  <h5>Data Range em Angular, componetente desenvolvido pela necessidade de aprender main sobre manipulação de datas em JavaScript.</h5>
-  <hr>
-  <a href="https://github.com/mikemajesty/StormReport" title="Click para mais informações" target="_blank" class="padding">Storm Report</a>
-  <h5>Biblioteca em C#, desenvolvida na faculdade para um trabalho de POO e usada por mais de 500 pessoas, segundo as métricas do Nuget.</h5>
+  <h5>Desenvolvi um jogo utilizando Vue.js e Phaser, baseado nas estatísticas de cada usuário do GitHub. O jogo permite criar um personagem de RPG personalizado, com base nos dados do usuário, e batalhar contra seus amigos. Essa experiência oferece uma maneira divertida e interativa de explorar o perfil do GitHub enquanto se envolve em batalhas de RPG.</h5>
   </div>
 </template>
 
@@ -45,7 +33,7 @@ export default {
 }
 
 .title {
-  color: #003147;
+  color: #000000;
   text-transform: uppercase;
   letter-spacing: 1px;
   margin-bottom: 10px;
@@ -53,8 +41,8 @@ export default {
 
 h5 {
   text-transform: uppercase;
-  color: #848c90;
-  font-weight: 500;
+  color: #000000;
+  font-weight: 400;
   padding-left: 10%;
 }
 

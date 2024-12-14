@@ -7,7 +7,6 @@
     <Hackathons/>
     <OpenSource/>
     <Carousel/>
-    <Slide/>
   </div>
 </template>
 
@@ -18,7 +17,6 @@ import Education from './Education.vue';
 import LanguageInfo from './Language.vue';
 import Hackathons from './Hackathons.vue';
 import OpenSource from './OpenSource.vue';
-import Slide from './Slide.vue';
 
 export default {
   name: 'LeftSize',
@@ -29,7 +27,6 @@ export default {
     LanguageInfo,
     Hackathons,
     OpenSource,
-    Slide
   }
 }
 </script>

@@ -7,22 +7,11 @@
         <h5>IBM</h5>
       </div>
       <div class="text">
-        <h4>Full Stack Developer</h4>
+        <h4>Engenheiro de Software Pleno</h4>
         <p>
-          A IBM foi onde tive minha segunda oportunidade, tive o prazer de participar em um dos 
-melhores times da empresa, onde éramos referência em inovação e tecnologias. O 
-Projeto era um dashboard para o Santander, onde consumíamos uma grande quantidade 
-de informações relevantes e fazíamos as mesmas de fácil entendimento para os diretores do banco...
+          Na IBM, tive minha segunda oportunidade e tive o prazer de integrar um dos melhores times da empresa, reconhecido por sua inovação e expertise tecnológica. Participei de um projeto desafiador e de grande relevância: o desenvolvimento de um dashboard para o Santander. Nesse projeto, nossa equipe consumia e processava grandes volumes de dados relevantes, transformando essas informações em insights acessíveis e de fácil compreensão para os diretores do banco, auxiliando na tomada de decisões estratégicas. Foi uma experiência rica, onde pude aplicar conhecimentos de análise de dados, visualização e tecnologias de ponta, contribuindo diretamente para o sucesso do cliente.
         </p>
-        <img class="img" title="NodeJs" src="../../assets/expiriences/nodejs.png">
-        <img class="img padding" title="MongoDB" src="../../assets/expiriences/mongo.png">
-        <img class="img padding" title="PostgreSQL" src="../../assets/expiriences/postgres.png">
-        <img class="img padding" title="Angular 2" src="../../assets/expiriences/angular1.png">
-        <img class="img padding" title="Jenkins" src="../../assets/expiriences/jenkins.png">
-        <img class="img padding" title="AWS" src="../../assets/expiriences/aws.png">
-         <img class="img padding" title="Jest" src="../../assets/expiriences/jest.png">
-        <span class="vl"/>
-        <img class="img padding" title="Santander" src="../../assets/expiriences/santander.png">
+        <p><b class="p-skill">Nodejs(Express), MongoDB, PostgreSQL, AWS, Jest(Test unitários)</b></p>
       </div>
     </div>
     <div class="box">
@@ -31,21 +20,11 @@ de informações relevantes e fazíamos as mesmas de fácil entendimento para os
         <h5>Accenture</h5>
       </div>
       <div class="text">
-        <h4>Full Stack Developer</h4>
+        <h4>Engenheiro de Software Senior</h4>
         <p>
-          Foi na Accenture onde tive a oportunidade de trabalhar com o IBM Watson, onde 
-desenvolvíamos o chatbot do Santander, que era um projeto estratégico para a empresa. 
-O Projeto foi e ainda é um sucesso...
+          Tive a oportunidade de trabalhar na Accenture em um projeto estratégico de grande importância, onde contribuímos no desenvolvimento de um chatbot para o Santander utilizando a tecnologia IBM Watson. Foi uma experiência enriquecedora, que envolveu a criação de uma solução inovadora para otimizar a comunicação com os clientes e melhorar a eficiência dos serviços bancários. O projeto foi um grande sucesso, impactando positivamente a experiência do usuário e continua a ser uma referência para a empresa até hoje.
         </p>
-        <img class="img" title="NodeJs" src="../../assets/expiriences/nodejs.png">
-        <img class="img padding" title="Angular 4" src="../../assets/expiriences/angular1.png">
-        <img class="img padding" title="MongoDB" src="../../assets/expiriences/mongo.png">
-        <img class="img padding" title="IBM Cloud" src="../../assets/expiriences/ibmCloud.png">
-        <img class="img padding" title="Jenkins" src="../../assets/expiriences/jenkins.png">
-        <img class="img padding" title="Inteligência Artificial" src="../../assets/expiriences/IA.png">
-         <img class="img padding" title="Jest" src="../../assets/expiriences/jest.png">
-        <span class="vl"/>
-        <img class="img padding" title="Santander" src="../../assets/expiriences/santander.png">
+        <p><b class="p-skill">Nodejs(Express), MongoDB, IBM Cloud, Jenkins, AWS, Jest(Test unitários)</b></p>
       </div>
     </div>
     <div class="box">
@@ -54,34 +33,13 @@ O Projeto foi e ainda é um sucesso...
         <h5>Dasa</h5>
       </div>
       <div class="text">
-        <h4>Backend Developer</h4>
+        <h4>Engenheiro de Software Senior</h4>
         <p>
-          Foi na Dasa onde tive os maiores desafios da carreira, onde eramos responsáveis por um 
-projeto que gerava os resultados de exames para toda a empresa e afiliados. Projeto 
-referência de qualidade e tempo de entrega....
+          Foi na Dasa que enfrentei os maiores desafios da minha carreira. Fomos responsáveis por um projeto crucial, que gerava os resultados de exames para toda a empresa e seus afiliados. Esse projeto se destacou não apenas pela complexidade, mas também pela alta exigência em termos de qualidade e tempo de entrega, tornando-se uma verdadeira referência dentro da organização
         </p>
-        <img class="img" title="NodeJs" src="../../assets/expiriences/nodejs.png">
-        <img class="img padding" title="NestJs" src="../../assets/expiriences/nestjs.png">
-        <img class="img padding" title="React" src="../../assets/expiriences/react.png">
-        <img class="img padding" title="MongoDB" src="../../assets/expiriences/mongo.png">
-        <img class="img padding" title="PostgreSQL" src="../../assets/expiriences/postgres.png">
-        <img class="img padding" title="Azure" src="../../assets/expiriences/azure.png">
-        <img class="img padding" title="CosmosDB" src="../../assets/expiriences/CosmosDB.png">
-        <img class="img padding" title="API Managment Azure" src="../../assets/expiriences/apiManagmentAzure.png">
-        <img class="img padding" title="AWS" src="../../assets/expiriences/aws.png">
-        <img class="img padding" title="AWS Lambda" src="../../assets/expiriences/awslambda.png">
-        <img class="img padding" title="AWS SQS" src="../../assets/expiriences/amazon-sqs.png">
-        <img class="img padding" title="DynamoDB" src="../../assets/expiriences/dynamodb.png">
-        <img class="img" title="AWS S3" src="../../assets/expiriences/awss3.png">
-        <img class="img padding" title="AWS Elastic Search" src="../../assets/expiriences/Elasticsearch.png">
-        <img class="img padding" title="AWS API Gateway" src="../../assets/expiriences/apigatway.png">
-        <img class="img padding" title="Docker" src="../../assets/expiriences/docker.png">
-        <img class="img padding" title="Jenkins" src="../../assets/expiriences/jenkins.png">
-        <img class="img padding" title="Bitbucket" src="../../assets/expiriences/bitbucket.png">
-        <img class="img padding" title="Kubernetes" src="../../assets/expiriences/kubernetes.png">
-        <img class="img padding" title="Rancher" src="../../assets/expiriences/rancher.png">
-        <img class="img padding" title="Swagger API" src="../../assets/expiriences/swagger.png">
-        <img class="img padding" title="Jest" src="../../assets/expiriences/jest.png">
+        <p><b class="p-skill">Nodejs(Express, NestJs), MongoDB, PostgreSQL, Azure, API Managment Azure, AWS, AWS Lambda, AWS SQS
+          DynamoDB, AWS S3, AWS Elastic Search, AWS API Gateway, Docker, Jenkins, Bitbucket, Kubernetes, Swagger API, Jest(Test unitários)
+        </b></p>
       </div>
     </div>
     <div class="box">
@@ -92,18 +50,9 @@ referência de qualidade e tempo de entrega....
       <div class="text">
         <h4>Full Stack Developer</h4>
         <p>
+          Na Seedz, tive a oportunidade de criar e estruturar microserviços com um foco essencial em manutenibilidade e escalabilidade. Enfrentei desafios que me permitiram evoluir significativamente como profissional. Hoje, a empresa conta com pelo menos três APIs que eu projetei e desenvolvi desde o início, o que contribuiu diretamente para a infraestrutura robusta e eficiente da companhia.
         </p>
-        <img class="img padding" title="NestJs" src="../../assets/expiriences/nestjs.png">
-        <img class="img padding" title="React" src="../../assets/expiriences/react.png">
-        <img class="img padding" title="MongoDB" src="../../assets/expiriences/mongo.png">
-        <img class="img padding" title="PostgreSQL" src="../../assets/expiriences/postgres.png">
-        <img class="img padding" title="Azure" src="../../assets/expiriences/azure.png">
-        <img class="img padding" title="CosmosDB" src="../../assets/expiriences/CosmosDB.png">
-        <img class="img padding" title="API Managment Azure" src="../../assets/expiriences/apiManagmentAzure.png">
-        <img class="img padding" title="AWS" src="../../assets/expiriences/aws.png">
-        <img class="img padding" title="AWS Lambda" src="../../assets/expiriences/awslambda.png">
-        <img class="img padding" title="AWS SQS" src="../../assets/expiriences/amazon-sqs.png">
-        <img class="img padding" title="DynamoDB" src="../../assets/expiriences/dynamodb.png">
+        <p><b class="p-skill">Nodejs(Nestjs,Express), MongoDB, PostgreSQL, Azure, AWS, AWS SQS, AWS Lambda,Jest(Test unitários)</b></p>
       </div>
     </div>
   </div>
@@ -118,7 +67,7 @@ export default {
 <style scoped>
 
 .expiriences {
-  padding-top: 19%;
+  padding-top: 5%;
 }
 
 .expiriences:last-child {
@@ -155,8 +104,13 @@ h4 {
 }
 
 p {
-  color: #333;
-  font-weight: 400;
+  color: #000000;
+  font-weight: 300;
+}
+
+.p-skill {
+  color: #000000;
+  font: bold;
 }
 
 .img {

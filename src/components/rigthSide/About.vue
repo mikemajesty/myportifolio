@@ -1,12 +1,9 @@
 <template>
   <div class="about">
     <h2 class="title">Perfil Profissional</h2>
-    <p>Tenho 7 anos de experiência com desenvolvimento de software, nesse período pude 
-trabalhar em diversos segmentos, tais como: financeiro, varejo e saúde. Com vivência em 
-diversas plataformas como: C#, Java, NodeJs e Angular, sempre obtendo protagonismo 
-nos projetos que participei.
-    <br> Bacharel em sistemas de informação, convivi com diversos desafios nesse período devido 
-a minha proatividade e dinamismo, sempre surpreendendo nos desafios atribuídos.</p>
+    <p>Tenho 8 anos de experiência no desenvolvimento de software, atuando em diversos segmentos, como financeiro, varejo e saúde. Ao longo dessa trajetória, desenvolvi habilidades técnicas e práticas em diversas plataformas, incluindo <b> Node.js(Nestjs, Express) C# e Java</b>, sempre assumindo papéis de destaque e protagonismo nos projetos em que estive envolvido.
+    <br> 
+    Sou Bacharel em Sistemas de Informação e, durante minha formação, enfrentei e superei diversos desafios, o que reforçou minha proatividade e dinamismo. Minha capacidade de adaptação e busca por soluções inovadoras me permite contribuir de maneira significativa em todas as fases de desenvolvimento de sistemas, superando as expectativas dos projetos e equipes.</p>
   </div>
 </template>
 
@@ -30,8 +27,8 @@ export default {
 }
 
 p {
-  color: #333;
-  font-weight: 400;
+  color: #000000;
+  font-weight: 300;
 }
 
 </style>

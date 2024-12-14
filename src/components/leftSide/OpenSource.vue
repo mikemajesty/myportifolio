@@ -12,6 +12,11 @@
         <h4 class="position">4 Bibliotecas</h4>
         <a href="https://www.nuget.org/profiles/mikemajesty" target="_blank" class="project">> 15.000 Downloads</a>
       </li>
+      <li>
+        <h5>GitHub</h5>
+        <h4 class="position">90 Repositórios</h4>
+        <a href="https://github.com/mikemajesty" target="_blank" class="project">> 930 Stars</a>
+      </li>
     </ul>
   </div>
 </template>
