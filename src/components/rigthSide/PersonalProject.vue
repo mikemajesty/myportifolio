@@ -4,13 +4,13 @@
     <h2 class="title">Projetos Pessoais</h2>
   </div>
   <a href="https://github.com/mikemajesty/nestjs-microservice-boilerplate-api" title="Click para mais informações" target="_blank" class="padding">NestJs Microservice Boilerplate</a>
-  <h5>Este microserviço foi desenvolvido após minha experiência em diversas empresas, onde sempre me deparei com arquiteturas complicadas e de difícil manutenção. Motivado por esse desafio, decidi estudar as principais arquiteturas e combinar o melhor de cada uma com as experiências adquiridas ao longo da minha carreira. O resultado foi extraordinário, e recebi inúmeros feedbacks positivos. Atualmente, o projeto está sendo utilizado em várias empresas, incluindo a organização em que trabalho.</h5>
+  <h5>Este microserviço surgiu a partir da minha vivência em diferentes empresas, onde frequentemente enfrentei arquiteturas complexas e pouco manuteníveis. Motivado por esses desafios, aprofundei meus estudos em padrões arquiteturais e apliquei as melhores práticas aliadas à minha experiência prática. O resultado foi uma solução eficiente, que recebeu diversos feedbacks positivos e hoje está em uso por várias empresas, incluindo a organização em que atuo.</h5>
   <hr>
   <a href="https://github.com/mikemajesty/nestjs-monorepo" title="Click para mais informações"  target="_blank">NestJs Monorepo</a>
-  <h5>A ideia por trás deste Monorepo em NestJS foi criar uma arquitetura simples e manutenível, facilitando a criação de novas APIs em um único repositório. O desenvolvimento do projeto levou 8 meses, incluindo a fase de construção e estudos aprofundados. O sucesso do projeto no Github foi uma grande motivação, e isso me inspirou a continuar aprimorando e evoluindo ainda mais a solução..</h5>
+  <h5>Idealizei e desenvolvi um monorepo em NestJS com foco em simplicidade, manutenibilidade e escalabilidade, facilitando a criação de múltiplas APIs em um único repositório. O projeto foi desenvolvido ao longo de 8 meses, combinando construção prática e estudos aprofundados em arquitetura de software. O sucesso e reconhecimento obtidos no GitHub serviram como motivação para seguir aprimorando a solução continuamente.</h5>
   <hr>
   <a href="https://github.com/mikemajesty/legend_of_github" title="Click para mais informações" target="_blank" class="padding">Legend Of Github</a>
-  <h5>Desenvolvi um jogo utilizando Vue.js e Phaser, baseado nas estatísticas de cada usuário do GitHub. O jogo permite criar um personagem de RPG personalizado, com base nos dados do usuário, e batalhar contra seus amigos. Essa experiência oferece uma maneira divertida e interativa de explorar o perfil do GitHub enquanto se envolve em batalhas de RPG.</h5>
+  <h5>Desenvolvi um jogo interativo utilizando Vue.js e Phaser, que transforma estatísticas do GitHub em atributos de um personagem de RPG personalizado. A aplicação permite que usuários criem seus avatares com base em seus dados públicos e disputem batalhas com amigos, oferecendo uma experiência divertida e inovadora de explorar perfis do GitHub por meio da gamificação.</h5>
   </div>
 </template>
 
