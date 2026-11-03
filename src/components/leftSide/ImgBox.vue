@@ -1,23 +1,22 @@
 <template>
   <div class="imgBox">
-    <img src="../../assets/img.jpeg">
+    <img src="../../assets/img.jpeg" alt="Foto de perfil de Mike Lima">
   </div>
-  <h2>Mike Lima</h2>
-  <span>Engenheiro de Software Sênior</span>
-  
-  <p class="expertises" >Expertises</p>
+  <h1>Mike Lima</h1>
+  <p class="role">Engenheiro de Software</p>
 
-<ul>
-  <li>Nodejs(Nestjs, Express)</li>
-  <li>Arquitetura de Software</li>
-  <li>Observabilidade</li>
-  <li>Typescript</li>
-  <li>MongoDB</li>
-  <li>PostgreSQL</li>
-  <li>AWS</li>
-</ul>
-
-  
+  <section class="expertises" aria-labelledby="expertises-title">
+    <h2 id="expertises-title">Principais competências</h2>
+    <ul>
+      <li>Node.js (NestJS, Express)</li>
+      <li>TypeScript e Go</li>
+      <li>Arquitetura de software</li>
+      <li>Kubernetes e Crossplane</li>
+      <li>Observabilidade</li>
+      <li>PostgreSQL e MongoDB</li>
+      <li>AWS</li>
+    </ul>
+  </section>
 </template>
 
 <script>
@@ -30,10 +29,12 @@ export default {
 .imgBox
 {
   position: relative;
-  width: 250px;
-  height: 250px;
+  width: 176px;
+  height: 176px;
+  margin: 0 auto;
   border-radius: 50%;
   overflow: hidden;
+  border: 4px solid rgba(255, 255, 255, 0.18);
 }
 
 img {
@@ -44,29 +45,35 @@ img {
   height: 100%;
   object-fit: cover;
 }
-li {
-  color: white;
-}
-.expertises
-{
-  color: white;
-  padding-top: 5%;
-  font-weight: 1000;
-}
 
-h2 {
-  color: white;
-  font-size: 1.7em;
+h1 {
   margin-top: 20px;
-  text-transform: uppercase;
+  color: #fff;
+  font-size: 1.85rem;
+  line-height: 1.2;
   text-align: center;
-  font-weight: 600;
-  line-height: 1.4em;
 }
 
-span {
-  font-size: 1em;
-  font-weight: 300;
-  color: white;
+.role {
+  margin-top: 8px;
+  color: #c9d9df;
+  font-size: 0.98rem;
+  text-align: center;
+}
+
+.expertises {
+  margin-top: 26px;
+}
+
+.expertises h2 {
+  margin-bottom: 10px;
+  color: #fff;
+  font-size: 1rem;
+}
+
+li {
+  margin: 6px 0 6px 18px;
+  color: #e0eaed;
+  font-size: 0.91rem;
 }
 </style>

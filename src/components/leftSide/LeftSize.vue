@@ -1,13 +1,12 @@
 <template>
-  <div class="left_side">
+  <aside class="left_side" aria-label="Informações complementares">
     <ProfileText/>
     <ContactInfo/>
     <Education/>
     <LanguageInfo/>
     <Hackathons/>
     <OpenSource/>
-    <Books/>
-  </div>
+  </aside>
 </template>
 
 <script>
@@ -17,7 +16,6 @@ import Education from './Education.vue';
 import LanguageInfo from './Language.vue';
 import Hackathons from './Hackathons.vue';
 import OpenSource from './OpenSource.vue';
-import Books from './Books.vue';
 
 export default {
   name: 'LeftSize',
@@ -27,8 +25,7 @@ export default {
     Education,
     LanguageInfo,
     Hackathons,
-    OpenSource,
-    Books
+    OpenSource
   }
 }
 </script>
@@ -37,9 +34,14 @@ export default {
 .left_side
 {
   position: relative;
-  background: #003147;
-  padding: 40px;
-  max-width: 300px;
-  box-shadow: 2px 10px 6px -4px black;
+  min-width: 0;
+  background: #123746;
+  padding: 38px 30px;
+}
+
+@media (max-width: 800px) {
+  .left_side {
+    padding: 32px clamp(22px, 7vw, 48px);
+  }
 }
 </style>

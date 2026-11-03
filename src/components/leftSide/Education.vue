@@ -1,6 +1,6 @@
 <template>
   <div class="education">
-    <h3 class="title">Formação</h3>
+    <h2 class="title">Formação</h2>
     <ul>
       <li>
         <h5>2014 - 2017</h5>
@@ -20,36 +20,32 @@ export default {
 <style scoped>
 
 .education {
-  padding-top: 15px;
+  margin-top: 24px;
 }
 
 ul {
-  padding-top: 7%;
-}
-
-.title {
-  font-weight: 700;
-  color: aliceblue;
-}
-
-li {
-  margin-bottom: 15px;
+  margin-top: 9px;
   list-style: none;
 }
 
+.title {
+  color: #fff;
+  font-size: 1rem;
+}
+
+li {
+  margin-bottom: 12px;
+}
+
 h5 {
-  font-weight: 500;
-  color: #03a9f4;
-  position: relative;
-  width: 100%;
-  font-weight: 500;
+  color: #69c5d0;
+  font-weight: 600;
 }
 
 h4 {
-  color: aliceblue;
-  position: relative;
-  width: 100%;
-  font-weight: 300;
+  color: #e0eaed;
+  font-size: 0.9rem;
+  font-weight: 400;
 }
 
 </style>

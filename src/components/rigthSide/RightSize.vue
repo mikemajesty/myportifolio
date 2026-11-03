@@ -1,10 +1,9 @@
 <template>
-  <div class="right_side">
+  <main class="right_side">
     <About/>
     <Expiriences/>
     <Projects/>
-    <PersonalAbout/>
-  </div>
+  </main>
 </template>
 
 <script>
@@ -26,9 +25,20 @@ export default {
 .right_side
 {
   position: relative;
-  background: #FFFFFF;
-  padding: 40px;
-  min-width: 40rem;
-  box-shadow: 2px 10px 6px -4px black;
+  min-width: 0;
+  background: #fff;
+  padding: 50px 52px;
+}
+
+@media (max-width: 800px) {
+  .right_side {
+    padding: 36px clamp(22px, 7vw, 48px);
+  }
+}
+
+@media (max-width: 420px) {
+  .right_side {
+    padding: 28px 20px;
+  }
 }
 </style>

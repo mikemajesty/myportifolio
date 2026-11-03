@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Currículo | Mike Lima</title>
+  <style>
+    :root {
+      color-scheme: light;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #23343d;
+      background: #eaf0f2;
+      font-synthesis: none;
+      text-rendering: optimizeLegibility;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 28px;
+      font-size: 10pt;
+      line-height: 1.48;
+    }
+
+    main {
+      width: min(210mm, 100%);
+      min-height: 297mm;
+      margin: 0 auto;
+      padding: 18mm 19mm;
+      background: #fff;
+      box-shadow: 0 12px 40px rgba(27, 55, 67, 0.12);
+    }
+
+    header {
+      padding-bottom: 15px;
+      border-bottom: 2px solid #137b8a;
+    }
+
+    h1 {
+      margin: 0;
+      color: #173b49;
+      font-size: 27pt;
+      letter-spacing: -0.04em;
+      line-height: 1.1;
+    }
+
+    .headline {
+      margin: 6px 0 10px;
+      color: #137b8a;
+      font-size: 12pt;
+      font-weight: 700;
+    }
+
+    .contact {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px 14px;
+      margin: 0;
+      color: #455760;
+      font-size: 9pt;
+    }
+
+    .contact a {
+      color: #125f6b;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    a {
+      color: #125f6b;
+      text-decoration: none;
+      overflow-wrap: anywhere;
+    }
+
+    section {
+      margin-top: 17px;
+    }
+
+    h2 {
+      margin: 0 0 7px;
+      color: #173b49;
+      font-size: 11pt;
+      letter-spacing: 0.07em;
+      text-transform: uppercase;
+    }
+
+    p {
+      margin: 4px 0;
+    }
+
+    .role {
+      break-inside: avoid;
+      margin-top: 11px;
+    }
+
+    .role-heading {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: baseline;
+    }
+
+    h3 {
+      margin: 0;
+      color: #243e48;
+      font-size: 10pt;
+    }
+
+    .date {
+      flex: 0 0 auto;
+      color: #5b6d75;
+      font-size: 9pt;
+      font-weight: 700;
+    }
+
+    .company {
+      margin-top: 1px;
+      color: #137b8a;
+      font-weight: 700;
+    }
+
+    ul {
+      margin: 5px 0 0;
+      padding-left: 18px;
+    }
+
+    li {
+      margin: 2px 0;
+    }
+
+    .skills {
+      color: #455760;
+    }
+
+    .project {
+      margin-top: 8px;
+      break-inside: avoid;
+    }
+
+    .education-line {
+      margin-top: 4px;
+    }
+
+    .education {
+      break-inside: avoid;
+    }
+
+    .competencies {
+      break-inside: avoid;
+    }
+
+    @page {
+      size: A4;
+      margin: 0;
+    }
+
+    @media print {
+      :root {
+        background: #fff;
+      }
+
+      body {
+        padding: 0;
+        background: #fff;
+      }
+
+      main {
+        width: 210mm;
+        min-height: 0;
+        margin: 0;
+        padding: 12mm 18mm;
+        box-shadow: none;
+      }
+
+      header {
+        padding-bottom: 10px;
+      }
+
+      section {
+        margin-top: 13px;
+      }
+
+      .role {
+        margin-top: 8px;
+      }
+
+      .competencies {
+        break-before: page;
+        padding-top: 10mm;
+      }
+
+      li {
+        margin: 1px 0;
+      }
+
+      a {
+        color: inherit;
+      }
+
+      .contact a {
+        color: #125f6b;
+        text-decoration: underline;
+      }
+    }
+
+    @media screen and (max-width: 650px) {
+      body {
+        padding: 12px;
+      }
+
+      main {
+        min-height: 0;
+        padding: 28px 22px;
+      }
+
+      .role-heading {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Mike Lima</h1>
+      <p class="headline">Engenheiro de Software | Backend e Plataformas</p>
+      <p class="contact">
+        <a href="mailto:mike.rodrigues.lima@gmail.com">mike.rodrigues.lima@gmail.com</a>
+        <a href="tel:+5515997624783">(15) 99762-4783</a>
+        <a href="https://github.com/mikemajesty">github.com/mikemajesty</a>
+        <a href="https://www.linkedin.com/in/mike-lima-77097993/">linkedin.com/in/mike-lima-77097993</a>
+      </p>
+    </header>
+
+    <section aria-labelledby="summary">
+      <h2 id="summary">Resumo profissional</h2>
+      <p>
+        Engenheiro de software com experiência em desenvolvimento backend, arquitetura de sistemas e plataformas de infraestrutura.
+        Atua em produtos usados por times de desenvolvimento, com foco em automação, manutenibilidade e confiabilidade.
+        Experiência com Node.js, TypeScript, Go, Kubernetes, Crossplane, PostgreSQL e AWS.
+      </p>
+    </section>
+
+    <section aria-labelledby="experience">
+      <h2 id="experience">Experiência profissional</h2>
+
+      <article class="role">
+        <div class="role-heading">
+          <h3>Engenheiro de Software III</h3>
+          <span class="date">2025–atual</span>
+        </div>
+        <p class="company">OLX Brasil</p>
+        <ul>
+          <li>Desenvolve e mantém o backend de uma plataforma interna para publicação de aplicações em Kubernetes; é o único desenvolvedor backend da plataforma.</li>
+          <li>Implementou uma biblioteca de integração com Crossplane para validar estados e criar recursos de infraestrutura declarados em YAML.</li>
+          <li>Conduziu a migração de JavaScript para TypeScript, tornando a evolução e manutenção do sistema cerca de 40% mais simples.</li>
+          <li>Eliminou a duplicidade de estado entre PostgreSQL e Kubernetes, reduzindo armazenamento em 25% e acessos ao banco em 30%, o que permitiu reduzir a instância PostgreSQL.</li>
+        </ul>
+        <p class="skills"><strong>Tecnologias:</strong> TypeScript, Node.js, Go, Kubernetes, Crossplane, PostgreSQL e AWS.</p>
+      </article>
+
+      <article class="role">
+        <div class="role-heading">
+          <h3>Staff Engineer</h3>
+          <span class="date">2022–2025</span>
+        </div>
+        <p class="company">Seedz</p>
+        <ul>
+          <li>Estruturou microsserviços com foco em manutenibilidade, escalabilidade e boas práticas de engenharia.</li>
+          <li>Projetou e desenvolveu do zero pelo menos três APIs que entraram em produção.</li>
+        </ul>
+        <p class="skills"><strong>Tecnologias:</strong> Node.js, NestJS, Express, MongoDB, PostgreSQL, Azure, AWS e Jest.</p>
+      </article>
+
+      <article class="role">
+        <div class="role-heading">
+          <h3>Engenheiro de Software Sênior</h3>
+          <span class="date">2020–2022</span>
+        </div>
+        <p class="company">Dasa</p>
+        <ul>
+          <li>Atuou em um sistema de geração e distribuição de resultados de exames para a empresa e afiliadas, em um contexto de alta complexidade e exigência de qualidade.</li>
+        </ul>
+        <p class="skills"><strong>Tecnologias:</strong> Node.js, NestJS, Express, MongoDB, PostgreSQL, Azure, AWS, Docker e Kubernetes.</p>
+      </article>
+
+      <article class="role">
+        <div class="role-heading">
+          <h3>Engenheiro de Software Sênior</h3>
+          <span class="date">2019–2020</span>
+        </div>
+        <p class="company">Accenture</p>
+        <ul>
+          <li>Contribuiu para o desenvolvimento de um chatbot para o Santander usando IBM Watson, com foco na experiência de atendimento bancário.</li>
+        </ul>
+        <p class="skills"><strong>Tecnologias:</strong> Node.js, Express, MongoDB, IBM Cloud, AWS, Jenkins e Jest.</p>
+      </article>
+    </section>
+
+    <section aria-labelledby="opensource">
+      <h2 id="opensource">Open source</h2>
+      <ul>
+        <li>Projetos no GitHub com mais de 1.000 stars e 200+ forks.</li>
+        <li>Bibliotecas no NPM com mais de 1.000 downloads semanais.</li>
+        <li>Bibliotecas no NuGet com mais de 20.000 downloads, conforme dados informados no portfólio.</li>
+      </ul>
+    </section>
+
+    <section class="competencies" aria-labelledby="competencies">
+      <h2 id="competencies">Competências técnicas</h2>
+      <p><strong>Linguagens:</strong> TypeScript, JavaScript, Go, C# e Java.</p>
+      <p><strong>Backend e APIs:</strong> Node.js, NestJS, Express e Jest.</p>
+      <p><strong>Cloud e infraestrutura:</strong> AWS, Azure, Kubernetes, Docker e API Gateway.</p>
+      <p><strong>Infraestrutura como Código (IaC):</strong> Pulumi.</p>
+      <p><strong>Bancos de dados:</strong> PostgreSQL e MongoDB.</p>
+    </section>
+
+    <section class="education" aria-labelledby="education">
+      <h2 id="education">Formação e idiomas</h2>
+      <p class="education-line"><strong>Bacharelado em Sistemas de Informação</strong> — Universidade de São Roque, 2014–2017</p>
+      <p><strong>Português:</strong> nativo · <strong>Inglês:</strong> intermediário</p>
+    </section>
+  </main>
+</body>
+</html>

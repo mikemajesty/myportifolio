@@ -1,16 +1,18 @@
 <template>
   <div class="projects">
-    <div class="box">
-    <h2 class="title">Projetos Pessoais</h2>
-  </div>
-  <a href="https://github.com/mikemajesty/nestjs-microservice-boilerplate-api" title="Click para mais informações" target="_blank" class="padding">NestJs Microservice Boilerplate</a>
-  <h5>Este microserviço surgiu a partir da minha vivência em diferentes empresas, onde frequentemente enfrentei arquiteturas complexas e pouco manuteníveis. Motivado por esses desafios, aprofundei meus estudos em padrões arquiteturais e apliquei as melhores práticas aliadas à minha experiência prática. O resultado foi uma solução eficiente, que recebeu diversos feedbacks positivos e hoje está em uso por várias empresas, incluindo a organização em que atuo.</h5>
-  <hr>
-  <a href="https://github.com/mikemajesty/nestjs-monorepo" title="Click para mais informações"  target="_blank">NestJs Monorepo</a>
-  <h5>Idealizei e desenvolvi um monorepo em NestJS com foco em simplicidade, manutenibilidade e escalabilidade, facilitando a criação de múltiplas APIs em um único repositório. O projeto foi desenvolvido ao longo de 8 meses, combinando construção prática e estudos aprofundados em arquitetura de software. O sucesso e reconhecimento obtidos no GitHub serviram como motivação para seguir aprimorando a solução continuamente.</h5>
-  <hr>
-  <a href="https://github.com/mikemajesty/legend_of_github" title="Click para mais informações" target="_blank" class="padding">Legend Of Github</a>
-  <h5>Desenvolvi um jogo interativo utilizando Vue.js e Phaser, que transforma estatísticas do GitHub em atributos de um personagem de RPG personalizado. A aplicação permite que usuários criem seus avatares com base em seus dados públicos e disputem batalhas com amigos, oferecendo uma experiência divertida e inovadora de explorar perfis do GitHub por meio da gamificação.</h5>
+    <h2 class="title">Projetos em destaque</h2>
+    <article class="project">
+      <h3><a href="https://github.com/mikemajesty/nestjs-microservice-boilerplate-api" target="_blank" rel="noopener noreferrer">NestJS Microservice Boilerplate</a></h3>
+      <p>Boilerplate para criação de microsserviços com foco em arquitetura, manutenibilidade e práticas aplicadas em projetos reais.</p>
+    </article>
+    <article class="project">
+      <h3><a href="https://github.com/mikemajesty/nestjs-monorepo" target="_blank" rel="noopener noreferrer">NestJS Monorepo</a></h3>
+      <p>Estrutura monorepo em NestJS para desenvolver e manter múltiplas APIs em um único repositório.</p>
+    </article>
+    <article class="project">
+      <h3><a href="https://github.com/mikemajesty/legend_of_github" target="_blank" rel="noopener noreferrer">Legend of GitHub</a></h3>
+      <p>Jogo desenvolvido com Vue.js e Phaser que transforma estatísticas públicas do GitHub em atributos de personagens de RPG.</p>
+    </article>
   </div>
 </template>
 
@@ -23,41 +25,28 @@ export default {
 <style scoped>
 
 .projects {
-  padding-top: 5px;
-}
-
-.box {
-  display: flex;
-  flex-direction: row;
-  margin: 13px 0px;
+  margin-top: 42px;
 }
 
 .title {
-  color: #000000;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  margin-bottom: 10px;
+  margin-bottom: 18px;
+  color: #173b49;
+  font-size: 1.45rem;
+  letter-spacing: -0.02em;
 }
 
-h5 {
-  text-transform: uppercase;
-  color: #000000;
-  font-weight: 400;
-  padding-left: 10%;
+.project {
+  padding: 16px 0;
+  border-top: 1px solid #e1eaed;
 }
 
-a {
-  text-transform: uppercase;
-  color: #2a7da2;
-  font-size: 16px;
-  font-weight: 600;
+h3 {
+  margin-bottom: 5px;
+  font-size: 1.02rem;
 }
 
-.padding {
-  padding-top: 10%;
-}
-
-hr {
-  margin-top: 5%;
+.project p {
+  color: #455760;
+  font-size: 0.94rem;
 }
 </style>

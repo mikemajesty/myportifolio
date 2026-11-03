@@ -1,13 +1,13 @@
 <template>
   <div class="expiriences">
-    <h2 class="title">Experiências</h2>
+    <h2 class="title">Experiência profissional</h2>
     <div class="box">
       <div class="yearCompany">
         <h5>2019 - 2020</h5>
         <h5>Accenture</h5>
       </div>
       <div class="text">
-        <h4>Engenheiro de Software Senior</h4>
+        <h3>Engenheiro de Software Sênior</h3>
         <p>
           Na Accenture, participei de um projeto estratégico de alto impacto, contribuindo para o desenvolvimento de um chatbot para o Santander utilizando a tecnologia IBM Watson. A iniciativa visava otimizar a comunicação com os clientes e aumentar a eficiência dos serviços bancários. O projeto foi um sucesso, gerando melhorias significativas na experiência do usuário e se mantendo como uma referência dentro da organização.
         </p>
@@ -20,7 +20,7 @@
         <h5>Dasa</h5>
       </div>
       <div class="text">
-        <h4>Engenheiro de Software Senior</h4>
+        <h3>Engenheiro de Software Sênior</h3>
         <p>
           Na Dasa, enfrentei os maiores desafios da minha carreira até o momento. Fui responsável por um projeto estratégico que gerava os resultados de exames para toda a empresa e suas afiliadas. A iniciativa se destacou pela alta complexidade técnica, exigência de qualidade e prazos agressivos, tornando-se uma referência interna pela sua relevância e impacto na operação da organização.
         </p>
@@ -37,7 +37,7 @@
         <h5>Seedz</h5>
       </div>
       <div class="text">
-        <h4>Staff Engineer</h4>
+        <h3>Staff Engineer</h3>
         <p>
           Na Seedz, atuei na criação e estruturação de microserviços com foco em manutenibilidade, escalabilidade e boas práticas de engenharia. Enfrentei desafios técnicos que impulsionaram meu crescimento profissional e aprimoraram minhas habilidades em arquitetura de sistemas. Projetei e desenvolvi do zero pelo menos três APIs atualmente em produção, que compõem a base de uma infraestrutura robusta e eficiente utilizada pela empresa.
         </p>
@@ -51,11 +51,17 @@
         <h5>OLX</h5>
       </div>
       <div class="text">
-        <h4>Engenheiro de Software III</h4>
+        <h3>Engenheiro de Software III</h3>
         <p>
-          Na OLX Brasil, atuo no desenvolvimento de funcionalidades para uma aplicação estratégica baseada em Kubernetes, utilizada por todas as empresas do grupo OLX. Meu trabalho contribui diretamente para a padronização e eficiência dos ambientes de infraestrutura, com foco em escalabilidade, confiabilidade e automação. A solução tem papel fundamental no ecossistema da companhia, impactando diversas áreas de negócio e operações em larga escala.
+          Desenvolvo e mantenho o backend de uma plataforma interna que permite aos times publicar aplicações em Kubernetes. Sou o único desenvolvedor backend da plataforma e trabalho em parceria com um desenvolvedor frontend, um Product Owner e um engenheiro de infraestrutura, além de apoiar os desenvolvedores que a utilizam.
         </p>
-        <p><b class="p-skill">Nodejs(Express), Golang, Kubernetes, PostgreSQL, AWS, Jest(Test unitários)</b></p>
+        <p>
+          Implementei uma biblioteca de integração com Crossplane para validar o estado e criar recursos de infraestrutura declarados pelos usuários em YAML. Também conduzi a refatoração do sistema de JavaScript para TypeScript, tornando sua evolução e manutenção cerca de 40% mais simples.
+        </p>
+        <p>
+          Eliminei a duplicidade de estado entre PostgreSQL e Kubernetes, reduzindo o armazenamento em 25% e os acessos ao banco em 30%. Essa otimização permitiu reduzir a instância do PostgreSQL para uma opção de menor custo.
+        </p>
+        <p><b class="p-skill">TypeScript, Node.js, Go, Kubernetes, Crossplane, PostgreSQL, AWS</b></p>
       </div>
     </div>
   </div>
@@ -69,7 +75,7 @@ export default {
 
 <style scoped>
 .expiriences {
-  padding-top: 5%;
+  margin-bottom: 42px;
 }
 
 .expiriences:last-child {
@@ -77,28 +83,28 @@ export default {
 }
 
 .title {
-  color: #003147;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
+  color: #173b49;
+  font-size: 1.45rem;
+  letter-spacing: -0.02em;
 }
 
 .box {
   display: flex;
   flex-direction: row;
-  margin: 20px 0px;
+  gap: 20px;
+  margin: 24px 0;
 }
 
 h5 {
-  text-transform: uppercase;
-  color: #848c90;
+  color: #667780;
   font-weight: 600;
 }
 
-h4 {
-  text-transform: uppercase;
-  color: #2a7da2;
-  font-size: 16px;
+h3 {
+  margin-bottom: 7px;
+  color: #137b8a;
+  font-size: 1.05rem;
 }
 
 .yearCompany {
@@ -106,26 +112,25 @@ h4 {
 }
 
 p {
-  color: #000000;
-  font-weight: 300;
+  margin: 6px 0;
+  color: #455760;
 }
 
 .p-skill {
-  color: #000000;
-  font: bold;
+  color: #314a55;
+  font-weight: 650;
 }
 
-.img {
-  margin-top: 2%;
-  box-shadow: 4px 4px 4px -2px grey;
-  border: 0.5px solid gray;
-}
+@media (max-width: 600px) {
+  .box {
+    flex-direction: column;
+    gap: 5px;
+  }
 
-.img.padding {
-  margin-left: 1%;
-}
-
-.vl {
-  padding-left: 10%;
+  .yearCompany {
+    display: flex;
+    gap: 10px;
+    min-width: 0;
+  }
 }
 </style>

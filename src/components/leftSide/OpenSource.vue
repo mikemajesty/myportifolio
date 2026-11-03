@@ -1,21 +1,21 @@
 <template>
   <div class="openSourceInfo">
-    <h3 class="title">Projetos Open Source</h3>
+    <h2 class="title">Open source</h2>
     <ul>
       <li>
         <h5>NPM</h5>
         <h4 class="position">8 Bibliotecas</h4>
-        <a href="https://www.npmjs.com/~mikemajesty"  target="_blank" class="project">> 600 Downloads mensais</a>
+        <a href="https://www.npmjs.com/~mikemajesty" target="_blank" rel="noopener noreferrer" class="project">Mais de 1.000 downloads semanais</a>
       </li>
       <li>
         <h5>Nuget</h5>
         <h4 class="position">4 Bibliotecas</h4>
-        <a href="https://www.nuget.org/profiles/mikemajesty" target="_blank" class="project">> 20.000 Downloads</a>
+        <a href="https://www.nuget.org/profiles/mikemajesty" target="_blank" rel="noopener noreferrer" class="project">Mais de 20.000 downloads</a>
       </li>
       <li>
         <h5>GitHub</h5>
-        <h4 class="position">110 Repositórios</h4>
-        <a href="https://github.com/mikemajesty" target="_blank" class="project">> 1000 Stars</a>
+        <h4 class="position">Bibliotecas open source</h4>
+        <a href="https://github.com/mikemajesty" target="_blank" rel="noopener noreferrer" class="project">Mais de 1.000 stars e 200+ forks</a>
       </li>
     </ul>
   </div>
@@ -30,43 +30,36 @@ export default {
 <style scoped>
 
 .openSourceInfo {
-  padding-top: 10px;
+  margin-top: 24px;
 }
 
 ul {
-  padding-top: 7%;
-}
-
-.title {
-  font-weight: 700;
-  color: aliceblue;
-}
-
-li {
-  margin-bottom: 15px;
+  margin-top: 9px;
   list-style: none;
 }
 
+.title {
+  color: #fff;
+  font-size: 1rem;
+}
+
+li {
+  margin-bottom: 12px;
+}
+
 h5 {
-  font-weight: 500;
-  color: aliceblue;
+  color: #e0eaed;
+  font-weight: 600;
 }
 
 .position {
-  color: #03a9f4;
-  position: relative;
-  width: 100%;
-  font-weight: 300;
+  color: #69c5d0;
+  font-weight: 500;
 }
 
 .project {
-  color: aliceblue;
-  font-weight: 200;
-}
-
-hr {
-  margin-top: 5%;
-  margin-bottom: 5%;
+  color: #e0eaed;
+  font-size: 0.9rem;
 }
 
 </style>
